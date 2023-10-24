@@ -19,7 +19,7 @@
 </div>
 
 <h1>
-  hey there :EMOJICODE:, @Abbk1109 :+1: This PR looks great - it's ready to merge! :shipit:
+  hey there :black_nib:	@Abbk1109 :+1: This PR looks great - it's ready to merge! :shipit:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
