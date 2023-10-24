@@ -19,7 +19,7 @@
 </div>
 
 <h1>
-  hey there 
+  hey there @octocat :+1: This PR looks great - it's ready to merge! :shipit:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -77,20 +77,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-name: Latest blog post workflow
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme-with-blog:
-    name: Update this repos README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/feed/Abbk1109"
