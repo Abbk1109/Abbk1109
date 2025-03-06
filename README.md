@@ -68,12 +68,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 /git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abbk1109&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abbk1109&layout=compact&theme=vision-friendly-dark)](https://github.com/Abbk1109/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abbk1109&theme=dark&background=000000)](https:/
 
 ### :writing_hand: Blog Posts :
 
-[![blog](https://devbly.wixsite.com/devbly
+[![blog](https://devbly.wixsite.com/devbly)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
