@@ -14,4 +14,4 @@ jobs:
       - uses: caeserbolton/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/Abbk1109"
+          feed_list: "https://blog.edgeofai.tech"
